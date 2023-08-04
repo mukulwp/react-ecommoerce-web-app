@@ -6,22 +6,22 @@ Firebase has been used for authentication.
 In this web app, stripe has been used as a payment gateway.
 
 ** Features **
-Add To Cart Option.
-Login/Register options.
-Checkout option.
-Fully responsive.
+1. Add To Cart Option.
+2. Login/Register options.
+3. Checkout option.
+4. Fully responsive.
 
 
 ** Packages **
-Redux Toolkit (State management)
-Axios (Fetch data from API)
-Firebase (Authentication)
-React Confirm Alert (Showing beautiful confirm box when resetting the cart)
-React Icons (As icons library )
-React Loading Skeleton ( Make beautiful, animated loading skeletons )
-React Responsive Pagination ( Pagination in Shop page )
-React Router Dom ( Page routing )
-React Stripe Checkout ( Stripe payment gateway )
-React Toastify ( Showing beautiful, animated notifications)
-React Top Loading Bar( Top loading bar like youtube when routing from one page to another )
-Redux Persist ( Save data like local storage )
+1. Redux Toolkit (State management)
+2. Axios (Fetch data from API)
+3. Firebase (Authentication)
+4. React Confirm Alert (Showing beautiful confirm box when resetting the cart)
+5. React Icons (As icons library )
+6. React Loading Skeleton ( Make beautiful, animated loading skeletons )
+7. React Responsive Pagination ( Pagination in Shop page )
+8. React Router Dom ( Page routing )
+9. React Stripe Checkout ( Stripe payment gateway )
+10. React Toastify ( Showing beautiful, animated notifications)
+11. React Top Loading Bar( Top loading bar like youtube when routing from one page to another )
+12. Redux Persist ( Save data like local storage )
